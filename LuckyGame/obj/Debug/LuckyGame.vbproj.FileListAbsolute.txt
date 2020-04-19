@@ -1,0 +1,32 @@
+c:\users\murpy\documents\visual studio 2012\Projects\LuckyGame\LuckyGame\bin\Debug\LuckyGame.exe.config
+c:\users\murpy\documents\visual studio 2012\Projects\LuckyGame\LuckyGame\obj\Debug\LuckyGame.Form1.resources
+c:\users\murpy\documents\visual studio 2012\Projects\LuckyGame\LuckyGame\obj\Debug\LuckyGame.Resources.resources
+c:\users\murpy\documents\visual studio 2012\Projects\LuckyGame\LuckyGame\obj\Debug\LuckyGame.vbproj.GenerateResource.Cache
+c:\users\murpy\documents\visual studio 2012\Projects\LuckyGame\LuckyGame\bin\Debug\LuckyGame.exe
+c:\users\murpy\documents\visual studio 2012\Projects\LuckyGame\LuckyGame\bin\Debug\LuckyGame.pdb
+c:\users\murpy\documents\visual studio 2012\Projects\LuckyGame\LuckyGame\bin\Debug\LuckyGame.xml
+c:\users\murpy\documents\visual studio 2012\Projects\LuckyGame\LuckyGame\obj\Debug\LuckyGame.exe
+c:\users\murpy\documents\visual studio 2012\Projects\LuckyGame\LuckyGame\obj\Debug\LuckyGame.xml
+c:\users\murpy\documents\visual studio 2012\Projects\LuckyGame\LuckyGame\obj\Debug\LuckyGame.pdb
+E:\PBD Projek\LuckyGame\LuckyGame\bin\Debug\LuckyGame.exe.config
+E:\PBD Projek\LuckyGame\LuckyGame\obj\Debug\LuckyGame.exe
+E:\PBD Projek\LuckyGame\LuckyGame\obj\Debug\LuckyGame.xml
+E:\PBD Projek\LuckyGame\LuckyGame\obj\Debug\LuckyGame.pdb
+E:\PBD Projek\LuckyGame\LuckyGame\bin\Debug\LuckyGame.exe
+E:\PBD Projek\LuckyGame\LuckyGame\bin\Debug\LuckyGame.pdb
+E:\PBD Projek\LuckyGame\LuckyGame\bin\Debug\LuckyGame.xml
+E:\PBD Projek\LuckyGame\LuckyGame\obj\Debug\LuckyGame.Form1.resources
+E:\PBD Projek\LuckyGame\LuckyGame\obj\Debug\LuckyGame.Resources.resources
+E:\PBD Projek\LuckyGame\LuckyGame\obj\Debug\LuckyGame.vbproj.GenerateResource.Cache
+G:\PBD Projek\LuckyGame\LuckyGame\bin\Debug\LuckyGame.exe.config
+G:\PBD Projek\LuckyGame\LuckyGame\obj\Debug\LuckyGame.exe
+G:\PBD Projek\LuckyGame\LuckyGame\obj\Debug\LuckyGame.xml
+G:\PBD Projek\LuckyGame\LuckyGame\obj\Debug\LuckyGame.pdb
+H:\PBD Projek\LuckyGame\LuckyGame\bin\Debug\LuckyGame.exe.config
+H:\PBD Projek\LuckyGame\LuckyGame\obj\Debug\LuckyGame.exe
+H:\PBD Projek\LuckyGame\LuckyGame\obj\Debug\LuckyGame.xml
+H:\PBD Projek\LuckyGame\LuckyGame\obj\Debug\LuckyGame.pdb
+F:\PBD Projek\LuckyGame\LuckyGame\bin\Debug\LuckyGame.exe.config
+F:\PBD Projek\LuckyGame\LuckyGame\obj\Debug\LuckyGame.exe
+F:\PBD Projek\LuckyGame\LuckyGame\obj\Debug\LuckyGame.xml
+F:\PBD Projek\LuckyGame\LuckyGame\obj\Debug\LuckyGame.pdb
